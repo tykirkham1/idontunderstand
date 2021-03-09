@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: Sacramento;
+}
+
+
+.topcontainter {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.bottomcontainer {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+}
+.profile-picture{
+  height: 250px;
+}
+.skill-head{
+  height: 240px;
+}
+.css{
+  width: 225px;
+  height:225px;
+}
+.html{
+  width: 20%;
+  height:81px;
+}
+.js{
+  width: 20%;
+  height:81px;
+}
+.node{
+width: 20%;
+height:81px;
+}
